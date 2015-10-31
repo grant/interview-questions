@@ -17,4 +17,5 @@ Write a string compression algorithm that uses the count of sequential character
 e.g. "aabbcccdd" -> "a2b2c3d2"
 
 ### queueFromStacks
-Implement a queue using two stacks
+Implement a queue using two stacks.
+
