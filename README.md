@@ -16,5 +16,5 @@ Given an NxN matrix array of ints, rotate the matrix 90 degrees clockwise.
 Write a string compression algorithm that uses the count of sequential characters to shorten the string.
 e.g. "aabbcccdd" -> "a2b2c3d2"
 
-### removeLinkedListDuplicates
-Remove duplicates from a linked list.
+### queueFromStacks
+Implement a queue using two stacks
